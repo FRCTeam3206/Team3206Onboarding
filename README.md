@@ -8,5 +8,6 @@ This repository contains instructions for setting up a computer to develop using
 
 ## User Guides
 * [Using Git and Github](Using_git_and_GitHub.md) provides more information about how to use these tools to collaborate with the other software developers and coaches on the team.
+* See the WPILib [Building and Deploying Robot Code guide](https://docs.wpilib.org/en/stable/docs/software/vscode-overview/deploying-robot-code.html) for instructions on how to build your code and deploy it to the robot.
 
 
